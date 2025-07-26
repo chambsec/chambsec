@@ -6,7 +6,8 @@
 
 ---
 
- My background in healthcare has instilled in me a deep respect for precision, safety, and trust—values I now bring to securing digital systems.
+Cloud builder ☁️ | Hands-on doer 🤹‍♂️ | Tinkerer 🧠
+Activity learning. Actively building.  Always deploying.
 
 <h3 align="left">🎓Education</h3>
 
