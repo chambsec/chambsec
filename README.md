@@ -6,7 +6,7 @@
 
 ---
 
-After a decade of working directly with patients in diagnostic imaging (X-ray, CT, MRI), I'm transitioning into the world of **cloud security**. My background in healthcare has instilled in me a deep respect for precision, safety, and trust—values I now bring to securing digital systems.
+ My background in healthcare has instilled in me a deep respect for precision, safety, and trust—values I now bring to securing digital systems.
 
 <h3 align="left">🎓Education</h3>
 
