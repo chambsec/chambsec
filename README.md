@@ -37,6 +37,15 @@ After a decade of working directly with patients in diagnostic imaging (X-ray, C
 
 ---
 
+<h3 align="left">Projects:<h/3>
+
+
+---
+
+
+
+ 
+
  “From protecting patients to protecting data—same mission, new tools.”
 
 
