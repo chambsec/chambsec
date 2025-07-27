@@ -6,7 +6,7 @@
 
 ---
 
-Cloud builder ☁️ | Hands-on doer 🤹‍♂️ | Avid Tinkerer 🧠 | Activity learning | Actively building | Always deploying
+Cloud builder ☁️ | Hands-on doer 🤹🏽 | Avid Tinkerer 🧠 | Activity learning | Actively building 👷🏽 | Always deploying 
 
 <h3 align="left">🎓Education</h3>
 
