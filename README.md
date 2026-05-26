@@ -24,7 +24,7 @@ I come from diagnostic imaging — where uptime and data integrity aren't abstra
 
 ## Selected projects
 
-### [cgep-app-starter](https://github.com/chambsec/cgep-app-starter)
+### [healthcare-compliance-as-code](https://github.com/chambsec/healthcare-compliance-as-code)
 Deliberately non-compliant patient intake API wrapped with four GRC layers — Terraform remediation, OPA/Rego policy suite, GitHub Actions evidence pipeline, and OSCAL component definition closing 8 HIPAA gaps.
 `HCL` `OPA/Rego` `HIPAA` `OSCAL` `GitHub Actions`
 
