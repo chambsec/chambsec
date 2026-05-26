@@ -28,7 +28,7 @@ I come from diagnostic imaging — where uptime and data integrity aren't abstra
 Deliberately non-compliant patient intake API wrapped with four GRC layers — Terraform remediation, OPA/Rego policy suite, GitHub Actions evidence pipeline, and OSCAL component definition closing 8 HIPAA gaps.
 `HCL` `OPA/Rego` `HIPAA` `OSCAL` `GitHub Actions`
 
-### [cgep-capstone](https://github.com/chambsec/cgep-capstone)
+### [grc-engineering-capstone](https://github.com/chambsec/grc-engineering-capstone)
 End-to-end GRC engineering capstone (CGE-P) — compliant Terraform primitives, Rego policy gates, Cosign-signed evidence bundles, and OSCAL component definitions mapped to NIST controls across AWS and GCP.
 `HCL` `OPA/Rego` `NIST` `Cosign` `OSCAL`
 
