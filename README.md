@@ -1,51 +1,43 @@
+# Chris Chambers
 
-<h1 align="center">Hi 👋, I'm Chris Chambers</h1>
-<h3 align="center">🛡️ **Cloud Security Enthusiast** | 🧠 **MS in Cybersecurity** | 🏥 **10+ Years in Diagnostic Imaging**</h3>
+**Cloud Security Engineer** · MS Cybersecurity · 10+ years in Healthcare IT
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chambsec&label=Profile%20views&color=0e75b6&style=flat" alt="chambsec" /> </p>
-
----
-
-Cloud builder ☁️ | Hands-on doer 🤹🏽 | Avid Tinkerer 🧠 | Actively learning 📚 | Actively building 👷🏽 | Always deploying ✈️ 
-
-<h3 align="left">🎓Education</h3>
-
-- Master of Science in Cybersecurity
-
-<h3 align="left">🔍Interests</h3> 
-
-- Cloud Security Architecture  
-- Threat Detection & Response  
-- Infrastructure as Code  
-- Healthcare IT Security
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chambsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chambsec" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chambsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chambsec" height="30" width="40" /></a>
-<a href="https://instagram.com/chambsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chambsec" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chambsec&show_icons=true&locale=en&layout=compact" alt="chambsec" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chambsec&show_icons=true&locale=en" alt="chambsec" /></p>
-
+I come from diagnostic imaging — where uptime and data integrity aren't abstract concepts, they're patient outcomes. Now I build and secure cloud infrastructure with that same operational mindset.
 
 ---
 
-<h3 align="left">Projects:<h/3>
+## What I'm working on
 
+- Cloud security architecture across AWS, Azure, and GCP
+- Infrastructure as Code (Terraform / HCL)
+- Threat detection and incident response workflows
+- Healthcare IT security at the intersection of HIPAA and modern cloud
+- GRC engineering — compliance-as-code with OPA/Rego, OSCAL, and automated evidence pipelines mapped to NIST controls (CGE-P)
 
 ---
 
+## Stack
 
+`AWS` `Azure` `GCP` `Python` `Terraform` `Linux` `Git`
 
- 
+---
 
- “From protecting patients to protecting data—same mission, new tools.”
+## Selected projects
 
+### [cgep-app-starter](https://github.com/chambsec/cgep-app-starter)
+Deliberately non-compliant patient intake API wrapped with four GRC layers — Terraform remediation, OPA/Rego policy suite, GitHub Actions evidence pipeline, and OSCAL component definition closing 8 HIPAA gaps.
+`HCL` `OPA/Rego` `HIPAA` `OSCAL` `GitHub Actions`
 
+### [cgep-capstone](https://github.com/chambsec/cgep-capstone)
+End-to-end GRC engineering capstone (CGE-P) — compliant Terraform primitives, Rego policy gates, Cosign-signed evidence bundles, and OSCAL component definitions mapped to NIST controls across AWS and GCP.
+`HCL` `OPA/Rego` `NIST` `Cosign` `OSCAL`
+
+### [cloud-resume-challenge](https://github.com/chambsec/cloud-resume-challenge)
+Full-stack resume deployed on cloud infrastructure — static frontend, serverless backend, and CI/CD pipeline.
+`HTML` `AWS` `Serverless`
+
+---
+
+**[chamb.dev](https://chamb.dev)** · [LinkedIn](https://linkedin.com/in/chambsec)
+
+> *"From protecting patients to protecting data — same mission, new tools."*
