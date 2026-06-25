@@ -24,9 +24,9 @@ I come from diagnostic imaging — where uptime and data integrity aren't abstra
 
 ## Selected projects
 
-### [healthcare-compliance-as-code](https://github.com/chambsec/healthcare-compliance-as-code)
-Deliberately non-compliant patient intake API wrapped with four GRC layers — Terraform remediation, OPA/Rego policy suite, GitHub Actions evidence pipeline, and OSCAL component definition closing 8 HIPAA gaps.
-`HCL` `OPA/Rego` `HIPAA` `OSCAL` `GitHub Actions`
+### [Personal-brand-infrastructure-built-on-AWS.](https://github.com/chambsec/chamb-dev)
+chamb.dev is the public-facing writing platform for Chris Chambers. It publishes technical writing on cloud infrastructure, security engineering, and platform design. The site runs on a fully autonomous publishing pipeline: content written in the Command Center is scheduled, then automatically generated, deployed, indexed, and confirmed without any manual steps.
+`HTML` `AWS` `Serverless` `LAMBDA` `AUTONOMOUS` `PYTHON` 
 
 ### [grc-engineering-capstone](https://github.com/chambsec/grc-engineering-capstone)
 End-to-end GRC engineering capstone (CGE-P) — compliant Terraform primitives, Rego policy gates, Cosign-signed evidence bundles, and OSCAL component definitions mapped to NIST controls across AWS and GCP.
