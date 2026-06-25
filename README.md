@@ -24,16 +24,16 @@ I come from diagnostic imaging — where uptime and data integrity aren't abstra
 
 ## Selected projects
 
-### [Personal-brand-infrastructure-built-on-AWS.](https://github.com/chambsec/chamb-dev)
+### [Personal-brand-infrastructure-built-on-AWS](https://github.com/chambsec/chamb-dev)
 chamb.dev is the public-facing writing platform for Chris Chambers. It publishes technical writing on cloud infrastructure, security engineering, and platform design. The site runs on a fully autonomous publishing pipeline: content written in the Command Center is scheduled, then automatically generated, deployed, indexed, and confirmed without any manual steps.
 `HTML` `AWS` `Serverless` `LAMBDA` `AUTONOMOUS` `PYTHON` 
 
 ### [grc-engineering-capstone](https://github.com/chambsec/grc-engineering-capstone)
-End-to-end GRC engineering capstone (CGE-P) — compliant Terraform primitives, Rego policy gates, Cosign-signed evidence bundles, and OSCAL component definitions mapped to NIST controls across AWS and GCP.
+End-to-end GRC engineering capstone (CGE-P) compliant Terraform primitives, Rego policy gates, Cosign-signed evidence bundles, and OSCAL component definitions mapped to NIST controls across AWS and GCP.
 `HCL` `OPA/Rego` `NIST` `Cosign` `OSCAL`
 
 ### [cloud-resume-challenge](https://github.com/chambsec/cloud-resume-challenge)
-Full-stack resume deployed on cloud infrastructure — static frontend, serverless backend, and CI/CD pipeline.
+Cloud Resume Challenge build on AWS. S3, CloudFront, Lambda, DynamoDB, Terraform IaC, GitHub Actions CI/CD.
 `HTML` `AWS` `Serverless`
 
 ---
